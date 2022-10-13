@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Project_datacamp",
+    "section": "",
+    "text": "Oct 13, 2022\n\n\nKarol Orozco\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nOct 13, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 10, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/Employee Turnover/index.html",
+    "href": "posts/Employee Turnover/index.html",
+    "title": "Can I help reduce employee turnover?",
+    "section": "",
+    "text": "You work for the human capital department of a large corporation. The Board is worried about the relatively high turnover, and your team must look into ways to reduce the number of employees leaving the company. The team needs to understand better the situation, which employees are more likely to leave, and why. Once it is clear what variables impact employee churn, you can present your findings along with your ideas on how to attack the problem."
+  },
+  {
+    "objectID": "posts/Employee Turnover/index.html#your-challenge",
+    "href": "posts/Employee Turnover/index.html#your-challenge",
+    "title": "Can I help reduce employee turnover?",
+    "section": "Your challenge",
+    "text": "Your challenge\nCreate a report that covers the following:\n\nWhich department has the highest employee turnover? Which one has the lowest?\nInvestigate which variables seem to be better predictors of employee departure.\nWhat recommendations would you make regarding ways to reduce employee turnover?"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  }
+]
